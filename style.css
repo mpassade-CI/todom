@@ -1,0 +1,22 @@
+.app {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.modify-list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    white-space: nowrap;
+}
+#section1 {
+    margin-bottom: 30px;
+}
+#label1, #label2, #index-input, #todo-input {
+    margin-bottom: 10px;
+}
+.todo-list {
+    margin-top: 50px;
+    margin-left: -20px;
+}
+
